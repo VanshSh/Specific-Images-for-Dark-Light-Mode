@@ -14,4 +14,5 @@ All you have to do is just add `#gh-dark-mode-only` / `#gh-light-mode-only` at t
 #### Change your github theme to see different images ⬇️
 
 ![Dark  Mode](https://user-images.githubusercontent.com/81517284/145407725-1834fd03-f02c-401d-9746-99ef80df103a.png#gh-dark-mode-only)
-![Light Mode](https://user-images.githubusercontent.com/81517284/145407742-814614ac-c96f-4198-93e3-38c49ed83719.png#gh-light-mode-only)
+![Light Mode](https://user-images.githubusercontent.com/81517284/145409013-6b234a94-4aaa-4442-ad8f-b7c3af476151.png#gh-light-mode-only)
+
